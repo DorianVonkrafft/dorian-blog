@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/dorian-vonkrafft-blog/static/js/main.d8a1ad16.js",
+    "static/media/img_couverture_0.jpeg": "/dorian-vonkrafft-blog/static/media/img_couverture_0.d63bac6c6b96b83d8b08.jpeg",
+    "static/media/img_couverture_1.jpeg": "/dorian-vonkrafft-blog/static/media/img_couverture_1.bcb28dd572261327c31e.jpeg",
+    "static/media/img_couverture_musique_0.jpeg": "/dorian-vonkrafft-blog/static/media/img_couverture_musique_0.bf77fbb4b49814beb869.jpeg",
+    "index.html": "/dorian-vonkrafft-blog/index.html",
+    "main.d8a1ad16.js.map": "/dorian-vonkrafft-blog/static/js/main.d8a1ad16.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d8a1ad16.js"
+  ]
+}
