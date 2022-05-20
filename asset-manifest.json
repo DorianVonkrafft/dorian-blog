@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/dorian-vonkrafft-blog/static/js/main.d8a1ad16.js",
-    "static/media/img_couverture_0.jpeg": "/dorian-vonkrafft-blog/static/media/img_couverture_0.d63bac6c6b96b83d8b08.jpeg",
-    "static/media/img_couverture_1.jpeg": "/dorian-vonkrafft-blog/static/media/img_couverture_1.bcb28dd572261327c31e.jpeg",
-    "static/media/img_couverture_musique_0.jpeg": "/dorian-vonkrafft-blog/static/media/img_couverture_musique_0.bf77fbb4b49814beb869.jpeg",
-    "index.html": "/dorian-vonkrafft-blog/index.html",
-    "main.d8a1ad16.js.map": "/dorian-vonkrafft-blog/static/js/main.d8a1ad16.js.map"
+    "main.js": "/dorian-blog/static/js/main.2aa6fe37.js",
+    "static/media/img_couverture_0.jpeg": "/dorian-blog/static/media/img_couverture_0.d63bac6c6b96b83d8b08.jpeg",
+    "static/media/img_couverture_1.jpeg": "/dorian-blog/static/media/img_couverture_1.bcb28dd572261327c31e.jpeg",
+    "static/media/img_couverture_musique_0.jpeg": "/dorian-blog/static/media/img_couverture_musique_0.bf77fbb4b49814beb869.jpeg",
+    "index.html": "/dorian-blog/index.html",
+    "main.2aa6fe37.js.map": "/dorian-blog/static/js/main.2aa6fe37.js.map"
   },
   "entrypoints": [
-    "static/js/main.d8a1ad16.js"
+    "static/js/main.2aa6fe37.js"
   ]
 }
