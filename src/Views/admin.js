@@ -2,6 +2,7 @@ import { Button, List, ListItem } from "@material-ui/core";
 import { purple } from "@mui/material/colors";
 import { useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
+/* eslint eqeqeq: 0 */
 
 export default function Admin(props) {
   const navigate = useNavigate();
@@ -40,7 +41,7 @@ export default function Admin(props) {
   const handleClickType = () => {
     setTyperUtilisateur(0);
   };
-
+  
   const handleClickAdmin = () => {
     setTyperUtilisateur(1);
   };
@@ -59,8 +60,8 @@ export default function Admin(props) {
           alignItems: 'center',
           height: '100vh',
         }}>
-          <Button
-              variant="contained"
+          <Button 
+              variant="contained" 
               style={{
                 color : purple[500],
                 display: 'flex',
@@ -71,8 +72,8 @@ export default function Admin(props) {
           >
             Admin
           </Button>
-
-          <Button
+      
+          <Button 
               variant="contained"
               style={{
                 color : purple[500],
@@ -87,7 +88,7 @@ export default function Admin(props) {
         </div>
       }
 
-      {
+      { 
         typerUtilisateur == 1 &&
         <div className="Admin" style={{
           display: 'flex',
@@ -113,10 +114,10 @@ export default function Admin(props) {
                 <input ref={inputRefMotDePas} />
               </form>
             </ListItem>
-
+                    
             <ListItem>
             <form onSubmit={handleSubmit}>
-              <Button
+              <Button 
                   variant="contained"
                   style={{
                     color : purple[500],
@@ -132,7 +133,7 @@ export default function Admin(props) {
             </ListItem>
 
             <ListItem>
-              <Button
+              <Button 
                   variant="contained"
                   style={{
                     color : purple[500],
@@ -150,20 +151,20 @@ export default function Admin(props) {
         </div>
       }
 
-      {
+      { 
         typerUtilisateur == 2 &&
         <div style={{
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
           height: '100vh',
-        }}>
+        }}> 
         <List>
           <ListItem>
             <h1>WORK IN PROGRESS</h1>
           </ListItem>
           <ListItem>
-            <Button
+            <Button 
                 variant="contained"
                 style={{
                   color : purple[500],
