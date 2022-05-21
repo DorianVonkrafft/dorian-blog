@@ -11,7 +11,7 @@ function HomePage() {
     //const [shouldRedirect, setShouldRedirect] = useState(true);
 
     const navigate = useNavigate();
-
+    
     //les handleChanges
     const handleMenu0 = () => {
         navigate("/");
@@ -47,7 +47,7 @@ function HomePage() {
                     <Toolbar>
                         <TemporaryDrawer/>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 //pour faire appelle à la fonction handleMenu on utilise onClick
                                 onClick={handleMenu0}
@@ -56,7 +56,7 @@ function HomePage() {
                             </Button>
                         </div>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 onClick={handleMenu1}
                             >
@@ -64,7 +64,7 @@ function HomePage() {
                             </Button>
                         </div>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 onClick={handleMenu2}
                             >
@@ -72,7 +72,7 @@ function HomePage() {
                             </Button>
                         </div>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 onClick={handleMenu3}
                             >
@@ -80,7 +80,7 @@ function HomePage() {
                             </Button>
                         </div>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 onClick={handleMenu4}
                             >
@@ -88,7 +88,7 @@ function HomePage() {
                             </Button>
                         </div>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 onClick={handleMenu5}
                             >
@@ -96,13 +96,13 @@ function HomePage() {
                             </Button>
                         </div>
                         <div>
-                            <Button
+                            <Button 
                                 color="inherit"
                                 onClick={handleMenu6}
                             >
                                 Me retrouver
                             </Button>
-                        </div>
+                        </div>            
                     </Toolbar>
                 </AppBar>
             </div>
@@ -110,6 +110,8 @@ function HomePage() {
         </Container>
     );
 }
+
+
 
 export default HomePage;
 
