@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.js": "/dorian-blog/static/js/main.2aa6fe37.js",
+    "main.css": "/dorian-blog/static/css/main.7452c3c8.css",
+    "main.js": "/dorian-blog/static/js/main.e06faebe.js",
+    "static/media/musique_0.mp3": "/dorian-blog/static/media/musique_0.01cfca375e001b3959cd.mp3",
+    "static/media/iwonder-dreamheaven.mp3": "/dorian-blog/static/media/iwonder-dreamheaven.2fcbf12f96f7609a8711.mp3",
+    "static/media/musique_1.mp3": "/dorian-blog/static/media/musique_1.f007a57434674a458062.mp3",
+    "static/media/cali-wataboi.mp3": "/dorian-blog/static/media/cali-wataboi.a379b9b005a49b93e4cc.mp3",
+    "static/media/50-tobylane.mp3": "/dorian-blog/static/media/50-tobylane.f1427f1de43648644b06.mp3",
     "static/media/img_couverture_0.jpeg": "/dorian-blog/static/media/img_couverture_0.d63bac6c6b96b83d8b08.jpeg",
     "static/media/img_couverture_1.jpeg": "/dorian-blog/static/media/img_couverture_1.bcb28dd572261327c31e.jpeg",
     "static/media/img_couverture_musique_0.jpeg": "/dorian-blog/static/media/img_couverture_musique_0.bf77fbb4b49814beb869.jpeg",
+    "static/media/pause.svg": "/dorian-blog/static/media/pause.6d72bb709ff2f64924bbacda4a237460.svg",
+    "static/media/prev.svg": "/dorian-blog/static/media/prev.0b3cf3c27186335c6a4ab74bb6356fd9.svg",
+    "static/media/next.svg": "/dorian-blog/static/media/next.7c9d7c79bc1bddbc64b7cda0cad6f96b.svg",
     "index.html": "/dorian-blog/index.html",
-    "main.2aa6fe37.js.map": "/dorian-blog/static/js/main.2aa6fe37.js.map"
+    "static/media/play.svg": "/dorian-blog/static/media/play.ae28f2f8ed43f26bbecc733fd80f370c.svg",
+    "main.7452c3c8.css.map": "/dorian-blog/static/css/main.7452c3c8.css.map",
+    "main.e06faebe.js.map": "/dorian-blog/static/js/main.e06faebe.js.map"
   },
   "entrypoints": [
-    "static/js/main.2aa6fe37.js"
+    "static/css/main.7452c3c8.css",
+    "static/js/main.e06faebe.js"
   ]
 }
